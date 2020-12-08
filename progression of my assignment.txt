@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Profile</title>
+</head>
+<body>
+<img src="jarrod.jpg">
+
+<head>
+<h1 style="font-size:40px;">Personal Information</h1>
+
+
+<p>Name:  Jarrod Hill
+<p>Student Number : s3886450
+<p>Student Email Address : s3886450@student.rmit.edu.au
+
+<p>Thank you for visiting my Page,
+
+<p>A Little bit about myself,
+<p>I am a 49 year old guy from Adelaide South Australia, up to last week i was employed as a fabricator at iplex Pipelines.
+<p>My main role there was to fabricate plastic fittings for the plumbling market and also electricial area.
+<p>I was made redundant so i then decided it would like to study for my bachler of IT.
+
+<p>I was born in South Australia and the only language that i speak is English , with some Aussie slang thrown in,
+<p>I enjoy tenpin bowling and have had the pleasure of being the captian of the South Australian Team for the last 7 years..</p>
+<head>
+<h2 style="font-size:40px;">Interested In</h2>
+</head>
+<p>I have always had an interest in building things and how things work, as phones and even tv's have become smarter i would always wonder how
+<p>they work . I would like to be one of those guys that can develope the next big thing , that can help everyone every day.
+
+<p>A friend of mine worked for coles in the IT department and would travel around Australia each week fixing their problems.
+
+<p>I thought i would love a job like that, so that has inspired me into taking the first steps of becoming an IT specialist.
+
+<p>I have no prior knowledge of IT except installing / uninstalling programs on my computer.
+
+<p>I chose to be enrolled at RMIT as i did some research and found that RMIT have the courses that i need to gain knowledge in the IT industry.
+
+<p>What i expect to learn from my subjects , is how the IT industry works and what i can do to better my life working in the field of IT.
+<p>I am also enrolled in a programing course so both go hand in hand to better my working career.
+<head>
+<h3 style="font-size:40px;">Ideal Job</h3>
+</head>
+<p>this would be an ideal job for me to work towards
+
+
+<a href="https://www.seek.com.au/job/51027056?">Job Link</a>
+
+
+
+
+<img src="it job.jpg">
+<head>
+<h4 style="font-size:30px;">Description And What Makes It Appealing</h4>
+</head>
+
+<p>The company is looking for a Head of IT.
+
+<p>They are looking for a person who can enhance Mayne Pharma's current IT service delivery and overal customer service experience for their employee's and share holders.
+
+<p>Need to identify and manage possible IT risks that may occur.
+
+<p>Oversee the successful implementation of technology change projects.
+
+<p>This job would appeal to me as it would be an interesting job that would change on a daily basis.
+
+<p>The salary package offered is quite enticing, it is also located in my home state so i would not have to relocate.
+<head>
+<h5 style="font-size:30px;">Skills Required For The Job</h5>
+</head>
+
+<p>I would have to have leadership experience within the manufacturing industry.
+
+<p>Strong technical ability accross all technologies and environment.
+
+<p>Strong negotiation skills and vendor management relationship buliding.
+<head>
+<h6 style="font-size:30px;">The Skills That I currently Have</h6>
+</head>
+
+<p>I don not have the technicial skills for the job, however i do have the leadership skills required.
+
+<p>I have worked in manufacturing most of my working life in a team leader or supervisor role.
+
+<p>To achieve the skills required for this position , i will undertake a bachelor of IT to gain the knowledge.
+<p>Then in time the experience.</p>
+
+
+<head>
+<h7 style="font-size:30px;">Results of Myers Briggs Test</h7>
+</head>
+
+
+<img src="myersbriggs.jpg"></p>
+
+
+
+<head>
+<h8 style="font-size:30px;">Results ofLearning Style Test</h8>
+</head>
+
+
+<img src="learning style assessment.jpg"></p>
+
+
+
+<head>
+<h9 style="font-size:30px;">Results of Social Skills Test</h9>
+</head>
+
+
+
+<img src="social skill test.jpg"></p>
+
+
+
+<p>Going by the results of the Myers Briggs test i am more of a defender, which i find is true.  i will always defend a person if i find that they are correct.
+<p>As to my Social Skills it seems that i am more of a recluse and i tend to keep to myself quite a bit, even though i have been in leadership rolls before.
+<p>I seem to learn more by visual rather than reading or listening to other people who are teaching the subject, that one thing i will be working on.
+<p>When forming a team i will need to find someone who can take the lead roll until i can open up a bit to ask questions, it does not take me long to start talking.</P>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+</html>
